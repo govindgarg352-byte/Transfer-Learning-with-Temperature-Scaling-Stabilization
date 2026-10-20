@@ -1,0 +1,8 @@
+kaggle>=1.8.0
+python-dotenv
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+ipykernel
