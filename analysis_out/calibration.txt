@@ -1,0 +1,3 @@
+T=3.5684
+ECE before=0.0431 after=0.0228
+NLL before=0.6733 after=0.2719
